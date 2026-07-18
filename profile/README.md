@@ -4,6 +4,8 @@
 
 <p align="center">A toolchain for building Node.js desktop applications</p>
 
+Languages: English(now) | [简体中文](https://github.com/nexfteam/.github/blob/main/profile/README-CN.md)
+
 ## Contributing
 
 We welcome contributions of all kinds, including bug reports, feature suggestions, pull requests, and documentation improvements.
