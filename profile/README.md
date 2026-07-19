@@ -14,7 +14,8 @@ Before submitting a change, please check the existing Pull Requests to avoid dup
 
 ## Projects
 
-| Repository                                       | Description                                                                                                                  | License |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [Nexfep](https://github.com/nexfteam/nexfep)     | A Node.js desktop application framework built on [@webviewjs/webview](https://github.com/webviewjs/webview)                   | MIT     |
-| [Nexfpack](https://github.com/nexfteam/nexfpack) | A Node.js executable packaging tool that supports both ESM and CommonJS                                                       | MIT     |
+| Repository | Description | License |
+| --- | --- | --- |
+| [Nexfep](https://github.com/nexfteam/nexfep) | A Node.js desktop application framework built on [@webviewjs/webview](https://github.com/webviewjs/webview) | MIT |
+| [Nexfpack](https://github.com/nexfteam/nexfpack) | A Node.js executable packaging tool that supports both ESM and CommonJS | MIT |
+| [@nexfteam/single-instance](https://github.com/nexfteam/node-single-instance) | A fork of [@doridian/single-instance](https://github.com/Doridian/node-single-instance) | MIT |
